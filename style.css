@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segeo UI', sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
